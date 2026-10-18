@@ -1,7 +1,7 @@
 # Oi, eu sou o Marcos 👋
 
 Moro no Rio de Janeiro e faço apps para o Mac que eu mesmo uso no dia a dia. Quase tudo em
-**Swift e SwiftUI**, nativo, leve e sem depender do Xcode para compilar.
+**Swift e SwiftUI**.
 
 ## Projetos
 
