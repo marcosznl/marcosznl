@@ -14,6 +14,10 @@ Moro no Rio de Janeiro e faço apps para o Mac que eu mesmo uso no dia a dia. Qu
     <td width="96" align="center"><a href="https://github.com/marcosznl/tocando"><img src="img/tocando.png" width="64" alt="Ícone do Tocando"></a></td>
     <td><a href="https://github.com/marcosznl/tocando"><b>Tocando</b></a><br>A música que está tocando no Mac aparece no seu status "Ouvindo" do Discord.</td>
   </tr>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/marcosznl/bot_discord"><img src="img/arco.png" width="64" alt="Ícone do Arco"></a></td>
+    <td><a href="https://github.com/marcosznl/bot_discord"><b>Arco</b></a><br>Bot de Discord em Python com moderação, comunidade, música e níveis. Projeto concluído.</td>
+  </tr>
 </table>
 
 Tem mais coisa por aqui que fica privada: um player de vídeo, um app de downloads e um chat com
