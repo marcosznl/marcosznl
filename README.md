@@ -5,10 +5,16 @@ Moro no Rio de Janeiro e faço apps para o Mac que eu mesmo uso no dia a dia. Qu
 
 ## Projetos
 
-| | |
-|---|---|
-| **[Fluxo](https://github.com/marcosznl/fluxo)** | Teste de velocidade da internet e tráfego ao vivo na barra de menus do macOS. |
-| **[Tocando](https://github.com/marcosznl/tocando)** | A música que está tocando no Mac aparece no seu status "Ouvindo" do Discord. |
+<table>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/marcosznl/fluxo"><img src="img/fluxo.png" width="64" alt="Ícone do Fluxo"></a></td>
+    <td><a href="https://github.com/marcosznl/fluxo"><b>Fluxo</b></a><br>Teste de velocidade da internet e tráfego ao vivo na barra de menus do macOS.</td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/marcosznl/tocando"><img src="img/tocando.png" width="64" alt="Ícone do Tocando"></a></td>
+    <td><a href="https://github.com/marcosznl/tocando"><b>Tocando</b></a><br>A música que está tocando no Mac aparece no seu status "Ouvindo" do Discord.</td>
+  </tr>
+</table>
 
 Tem mais coisa por aqui que fica privada: um player de vídeo, um app de downloads e um chat com
 voz e música para a galera.
