@@ -15,6 +15,10 @@ Moro no Rio de Janeiro e faço apps para o Mac que eu mesmo uso no dia a dia. Qu
     <td><a href="https://github.com/marcosznl/tocando"><b>Tocando</b></a><br>A música que está tocando no Mac aparece no seu status "Ouvindo" do Discord.</td>
   </tr>
   <tr>
+    <td width="96" align="center"><a href="https://github.com/marcosznl/som-na-caixa"><img src="img/somnacaixa.png" width="64" alt="Ícone do Som na Caixa"></a></td>
+    <td><a href="https://github.com/marcosznl/som-na-caixa"><b>Som na Caixa</b></a><br>Salas de música para ouvir junto no navegador: fila de DJs, YouTube sincronizado e chat. <a href="https://som-na-caixa.onrender.com">Abrir o site</a>.</td>
+  </tr>
+  <tr>
     <td width="96" align="center"><a href="https://github.com/marcosznl/bot_discord"><img src="img/arco.png" width="64" alt="Ícone do Arco"></a></td>
     <td><a href="https://github.com/marcosznl/bot_discord"><b>Arco</b></a><br>Bot de Discord em Python com moderação, comunidade, música e níveis. Projeto concluído.</td>
   </tr>
