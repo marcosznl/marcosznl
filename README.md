@@ -15,6 +15,10 @@ Moro no Rio de Janeiro e faço as coisas que eu mesmo uso no dia a dia: apps par
     <td><a href="https://github.com/marcosznl/tocando"><b>Tocando</b></a><br>A música que está tocando no Mac aparece no seu status "Ouvindo" do Discord.</td>
   </tr>
   <tr>
+    <td width="96" align="center"><a href="https://github.com/marcosznl/controle-remoto"><img src="img/controle-remoto.png" width="64" alt="Ícone do Controle Remoto"></a></td>
+    <td><a href="https://github.com/marcosznl/controle-remoto"><b>Controle Remoto</b></a><br>Controle das TVs Samsung e LG na barra de menus do Mac, direto pela rede local.</td>
+  </tr>
+  <tr>
     <td width="96" align="center"><a href="https://github.com/marcosznl/som-na-caixa"><img src="img/som-na-caixa.png" width="64" alt="Ícone do Som na Caixa"></a></td>
     <td><a href="https://github.com/marcosznl/som-na-caixa"><b>Som na Caixa</b></a><br>Salas de música para ouvir junto no navegador: fila de DJs, YouTube sincronizado e chat. <a href="https://som-na-caixa.onrender.com">Abrir o site</a>.</td>
   </tr>
