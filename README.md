@@ -1,7 +1,7 @@
 # Oi, eu sou o Marcos 
 
-Moro no Rio de Janeiro e faço apps para o Mac que eu mesmo uso no dia a dia. Quase tudo em
-**Swift e SwiftUI**.
+Moro no Rio de Janeiro e faço as coisas que eu mesmo uso no dia a dia: apps para o Mac em
+**Swift e SwiftUI**, um bot de Discord em **Python** e um site em **React e Node.js**.
 
 ## Projetos
 
