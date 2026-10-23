@@ -1,11 +1,15 @@
 # Oi, eu sou o Marcos 
 
 Moro no Rio de Janeiro e faço as coisas que eu mesmo uso no dia a dia: apps para o Mac em
-**Swift e SwiftUI**, um bot de Discord em **Python** e um site em **React e Node.js**.
+**Swift e SwiftUI**, um bot de Discord em **Python** e sites em **JavaScript e Node.js**.
 
 ## Projetos
 
 <table>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/marcosznl/muvuca"><img src="img/muvuca.png" width="64" alt="Ícone do Muvuca"></a></td>
+    <td><a href="https://github.com/marcosznl/muvuca"><b>Muvuca</b></a><br>Chat, calls e jogos para o seu grupo de amigos, do jeito do Discord, rodando num computador seu. Com app para Mac e Windows.</td>
+  </tr>
   <tr>
     <td width="96" align="center"><a href="https://github.com/marcosznl/fluxo"><img src="img/fluxo.png" width="64" alt="Ícone do Fluxo"></a></td>
     <td><a href="https://github.com/marcosznl/fluxo"><b>Fluxo</b></a><br>Teste de velocidade da internet e tráfego ao vivo na barra de menus do macOS.</td>
@@ -32,5 +36,4 @@ Moro no Rio de Janeiro e faço as coisas que eu mesmo uso no dia a dia: apps par
   </tr>
 </table>
 
-Tem mais coisa por aqui que fica privada: um player de vídeo, um app de downloads e um chat com
-voz e música para a galera.
+Tem mais coisa por aqui que fica privada: um player de vídeo e um app de downloads.
