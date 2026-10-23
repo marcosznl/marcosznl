@@ -36,4 +36,3 @@ Moro no Rio de Janeiro e faço as coisas que eu mesmo uso no dia a dia: apps par
   </tr>
 </table>
 
-Tem mais coisa por aqui que fica privada: um player de vídeo e um app de downloads.
